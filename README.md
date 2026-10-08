@@ -1,61 +1,39 @@
 # Hi, I'm Rishitha Mutteni 👋
 
-Computer Science undergraduate at **IIITDM Jabalpur** and B.S. Data Science student at **IIT Madras**, interested in building reliable software and solving practical problems through code.
+### Computer Science @ IIITDM Jabalpur | BS Data Science @ IIT Madras
 
-- 💻 Interested in Software Engineering, Backend Development, and AI/ML
-- 🧩 Practicing Data Structures and Algorithms and problem-solving
-- 🛠️ Building projects involving machine learning, computer vision, and APIs
-- 🤝 Interested in collaborative development and open-source contributions
+I enjoy building practical software, exploring machine learning, and solving problems through code. I'm currently focused on strengthening my software engineering fundamentals and building projects that solve real-world problems.
 
-## Technical Skills
-
-**Languages:** C++, Python, Java, JavaScript, SQL
-
-**Core CS:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks
-
-**Backend & APIs:** FastAPI, REST APIs, JSON
-
-**Databases:** MySQL, PostgreSQL
-
-**AI/ML:** Scikit-learn, XGBoost, OpenCV, MediaPipe
-
-**Developer Tools:** Git, GitHub, Linux, Postman
-
-## Featured Projects
-
-### PhishGuard — Phishing Detection
-Machine learning-based phishing detection for URLs and emails, with supporting analysis features.
-
-**Focus:** Python, XGBoost, NLP, FastAPI
-
-### GestureVerse — Gesture-Controlled Application
-An interactive application using hand gestures to control gameplay and actions.
-
-**Focus:** Python, OpenCV, MediaPipe, Pygame
-
-### DeepTrace AI — Media Analysis
-A project exploring video analysis, face-region processing, and visual indicators to support media authenticity analysis.
-
-**Focus:** Python, FastAPI, OpenCV
-
-### AI Prescription Helper — Hackathon Team Project
-A collaborative hackathon project. See the repository for the implemented features, architecture, and setup instructions.
-
-**Repository:** [AI-Prescription-Helper](https://github.com/MRishitha015/AI-Prescription-Helper)
-
-## Currently Improving
-
-- Data Structures and Algorithms
-- Software design and backend engineering
-- Writing maintainable, well-tested code
-- Building and documenting practical software projects
-
-## Connect
-
-- GitHub: [@MRishitha015](https://github.com/MRishitha015)
-- LinkedIn: www.linkedin.com/in/rishitha-mutteni
-- Email: rishithamutteni@gmail.com
+- 🔭 Exploring AI/ML and backend development
+- 🌱 Practicing Data Structures & Algorithms and core CS concepts
+- 🛠️ Learning to build reliable applications and APIs
+- 🤝 Interested in meaningful open-source contributions
 
 ---
 
-*Always learning, building, and improving one project at a time.*
+
+
+## Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,c,html,css,react,tailwind,fastapi,mysql,postgres,mongodb,git,github,linux,vscode,postman&perline=9" alt="Languages and tools"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MRishitha015">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishitha-mutteni/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
