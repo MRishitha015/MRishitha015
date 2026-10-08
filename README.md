@@ -53,8 +53,8 @@ A collaborative hackathon project. See the repository for the implemented featur
 ## Connect
 
 - GitHub: [@MRishitha015](https://github.com/MRishitha015)
-- LinkedIn: **Add your LinkedIn profile URL here**
-- Email: **Add your professional email if you want it public**
+- LinkedIn: www.linkedin.com/in/rishitha-mutteni
+- Email: rishithamutteni@gmail.com
 
 ---
 
