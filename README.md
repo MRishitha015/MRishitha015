@@ -4,7 +4,7 @@
 
 I enjoy building practical software, exploring machine learning, and solving problems through code. I'm currently focused on strengthening my software engineering fundamentals and building projects that solve real-world problems.
 
-- 🔭 Exploring AI/ML and backend development
+- 💻 Exploring AI/ML and backend development
 - 🌱 Practicing Data Structures & Algorithms and core CS concepts
 - 🛠️ Learning to build reliable applications and APIs
 - 🤝 Interested in meaningful open-source contributions
@@ -21,7 +21,7 @@ I enjoy building practical software, exploring machine learning, and solving pro
 
 ---
 
-## Connect With Me
+##  Let's Connect!
 
 <p align="center">
   <a href="https://github.com/MRishitha015">
@@ -31,8 +31,6 @@ I enjoy building practical software, exploring machine learning, and solving pro
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Always learning. Always building. Always improving.</i>
